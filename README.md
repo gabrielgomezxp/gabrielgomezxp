@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Gabriel, an <a href="https://www.linkedin.com/in/gabrielgomez-/">IT Professional</a>☺</h1>
 
-<!--
-**gabrielgomezxp/gabrielgomezxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - 
+  - 
+  - 
+- <b>Microsoft Azure</b>
+  - 
+  - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Gabriel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+[instagram]: https://www.instagram.com/oddk
+[linkedin]: https://linkedin.com/in/gabrielgomez-
