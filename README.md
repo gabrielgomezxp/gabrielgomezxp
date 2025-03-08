@@ -3,12 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  ![osticket1](https://github.com/user-attachments/assets/d5426262-64ad-4457-b7fe-2fc65e12b4b4)
-  - Our first step is to create a Virtual Machine that uses Windows 10 using Microsoft Azure, with a resource group named "osTicket" in order to easily identify our VM that will be hosting our ticketing system.
-    
-  ![image](https://github.com/user-attachments/assets/150bbbda-0319-48c4-8c84-873b01f54569)
-  - In step 2, we remote into our Virtual Machine using 'Remote Desktop Connection' by inputting the Public IP Address assigned to our VM with our created credentials.
-  - 
+  https://github.com/gabrielgomezxp/osTicket
 - <b>Microsoft Azure</b>
   - 
   - 
