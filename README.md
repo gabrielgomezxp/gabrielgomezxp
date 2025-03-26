@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- osTicket (Help Desk Ticketing System)
   https://github.com/gabrielgomezxp/osTicket
-- <b>Microsoft Azure</b>
-  - 
-  - 
+- Implementing Active Directory
+  https://github.com/gabrielgomezxp/ActiveDirectory
 
 <h2>🤳Connect with me:</h2>
 
