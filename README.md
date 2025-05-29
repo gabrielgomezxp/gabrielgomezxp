@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- osTicket (Help Desk Ticketing System)
+- osTicket (Help Desk Ticketing System)  
   https://github.com/gabrielgomezxp/osTicket
-- Implementing Active Directory
+- Implementing Active Directory  
   https://github.com/gabrielgomezxp/ActiveDirectory
-- Exploring Networking Concepts using Wireshark
+- Exploring Networking Concepts using Wireshark  
   https://github.com/gabrielgomezxp/Wireshark
     
 
